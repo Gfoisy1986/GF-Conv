@@ -1,2 +1,2 @@
 # GF-Conv
-Simple logiciel de Conversion unitée in Purebasic.
+Simple logiciel de Conversion unitée in Haskell.
